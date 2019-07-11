@@ -1,8 +1,8 @@
-# Hikey970_supportfiles
+# Hikey970_supportfilehttps://github.com/bishopAL/GeRo_V1s
 Use this board for robot control and some support package and imge are delivered:
 
-name|usage
--|-|
-images|system install and change flash redistribute
-Dynamixel Package|Robot motors Control
-Python-can|Force Sensor
+name|usage|using steps
+-|-|-|
+images|system install and change flash redistribute|[teaching steps](https://blog.csdn.net/SIR_wkp/article/details/86226611)
+Dynamixel Package|Robot motors Control|[Motor and lantency set](https://github.com/bishopAL/GeRo_V1)
+Python-can|Force Sensor|[using teaching](https://python-can.readthedocs.io/en/stable/installation.html)
