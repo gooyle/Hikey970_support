@@ -1,4 +1,6 @@
 # Hikey970_support
-images and doc
-Dynamixel Package ---->Robot motors Control
-Python-can ----->Force Sensor
+name|usage
+-|-|
+images and doc|system install and change flash redistribute
+Dynamixel Package|Robot motors Control
+Python-can|Force Sensor
